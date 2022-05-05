@@ -1,6 +1,9 @@
 # Webservices to Support Departmental Dashboard
 ## Project Description
-Creating a programs that will take the data from the Tennessee Technological University and then transform the data depending on what users want.
+Creating a programs that will take the data from the Tennessee Technological University and then transform the data depending on what users want. 
+
+For all of the models we used [GenMyModel](https://app.genmymodel.com/api/login) to create all of the diagrams.
+
 
 The project is broken down into 6 parts. Each part adds more information and progresses the project further.
 
@@ -48,5 +51,5 @@ Click:
 To make sure the test are using the correct JUnit:
 > Open ServiceBridge.Java  in src/main ► Right click ► Generate ► Test ► Change Testing Library to JUnit 4  Apply ► Cancel
 
-
-
+## What I learned
+Over the course of this project. We got experience creating .md files and javadocs for our methods. To complete the project we were taught how to use Spring-Boot, Maven, JDB Debugger, GenMyModel, UML Diagrams (Use Case and Class), Git and we also were using the idea of Test Driven Development. 
