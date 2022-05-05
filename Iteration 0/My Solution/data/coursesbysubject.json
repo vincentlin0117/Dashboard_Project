@@ -1,0 +1,3778 @@
+{
+  "subjectTerm": {
+    "subject": "CSC",
+    "term": "202210"
+  },
+  "schedule": [
+    {
+      "faculty": {
+        "firstname": "Barbara",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 3,
+      "crn": "13519",
+      "course": "1200",
+      "section": "600",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Gannod, Barbara ",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Principles of Computing"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 31,
+      "credits": 3,
+      "crn": "10625",
+      "course": "1200",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0850",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 40,
+      "isopen": true,
+      "title": "Principles of Computing"
+    },
+    {
+      "faculty": {
+        "firstname": "Barbara",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 23,
+      "credits": 3,
+      "crn": "12038",
+      "course": "1200",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Gannod, Barbara ",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Principles of Computing"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 18,
+      "credits": 0,
+      "crn": "10455",
+      "course": "1300",
+      "section": "109",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "R",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 25,
+      "credits": 0,
+      "crn": "11807",
+      "course": "1300",
+      "section": "108",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 23,
+      "credits": 0,
+      "crn": "11657",
+      "course": "1300",
+      "section": "107",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "R",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 23,
+      "credits": 0,
+      "crn": "11327",
+      "course": "1300",
+      "section": "106",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": null,
+        "lastname": null
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 0,
+      "crn": "11486",
+      "course": "1300",
+      "section": "105",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": null,
+      "maximumstudents": 0,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "Sherif Mohamed Ibrahim",
+        "lastname": "Abdelfattah"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 29,
+      "credits": 0,
+      "crn": "10566",
+      "course": "1300",
+      "section": "104",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0915",
+      "endam_PM": "am",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Abdelfattah, Sherif Mohamed Ibrahim",
+      "maximumstudents": 32,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 23,
+      "credits": 0,
+      "crn": "10791",
+      "course": "1300",
+      "section": "103",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1350",
+      "endam_PM": "pm",
+      "classdays": "F",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "Sherif Mohamed Ibrahim",
+        "lastname": "Abdelfattah"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 33,
+      "credits": 0,
+      "crn": "12121",
+      "course": "1300",
+      "section": "102",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1350",
+      "endam_PM": "pm",
+      "classdays": "W",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Abdelfattah, Sherif Mohamed Ibrahim",
+      "maximumstudents": 32,
+      "isopen": false,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "Sherif Mohamed Ibrahim",
+        "lastname": "Abdelfattah"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 32,
+      "credits": 0,
+      "crn": "11050",
+      "course": "1300",
+      "section": "101",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1350",
+      "endam_PM": "pm",
+      "classdays": "M",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Abdelfattah, Sherif Mohamed Ibrahim",
+      "maximumstudents": 26,
+      "isopen": false,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "Sherif Mohamed Ibrahim",
+        "lastname": "Abdelfattah"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 95,
+      "credits": 4,
+      "crn": "10576",
+      "course": "1300",
+      "section": "003",
+      "istimedetermined": true,
+      "starttime": "1000",
+      "startam_PM": "am",
+      "endtime": "1050",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "CLEM",
+      "room": "212",
+      "isonline": false,
+      "prof": "Abdelfattah, Sherif Mohamed Ibrahim",
+      "maximumstudents": 53,
+      "isopen": false,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "Md. Golam Moula",
+        "lastname": "Mehedi Hasan"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 44,
+      "credits": 4,
+      "crn": "11360",
+      "course": "1300",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1600",
+      "startam_PM": "pm",
+      "endtime": "1650",
+      "endam_PM": "pm",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Mehedi Hasan, Md. Golam Moula ",
+      "maximumstudents": 75,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 67,
+      "credits": 4,
+      "crn": "12027",
+      "course": "1300",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0900",
+      "startam_PM": "am",
+      "endtime": "0950",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 75,
+      "isopen": true,
+      "title": "Intro/Prob Solving-Comp Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 21,
+      "credits": 0,
+      "crn": "10454",
+      "course": "1310",
+      "section": "106",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "R",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 22,
+      "credits": 0,
+      "crn": "11834",
+      "course": "1310",
+      "section": "105",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 24,
+      "credits": 0,
+      "crn": "11034",
+      "course": "1310",
+      "section": "104",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "R",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 26,
+      "credits": 0,
+      "crn": "10324",
+      "course": "1310",
+      "section": "103",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 25,
+      "isopen": false,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 23,
+      "credits": 0,
+      "crn": "11785",
+      "course": "1310",
+      "section": "102",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1350",
+      "endam_PM": "pm",
+      "classdays": "W",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 24,
+      "credits": 0,
+      "crn": "11467",
+      "course": "1310",
+      "section": "101",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1350",
+      "endam_PM": "pm",
+      "classdays": "M",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 71,
+      "credits": 4,
+      "crn": "10830",
+      "course": "1310",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 60,
+      "isopen": false,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 69,
+      "credits": 4,
+      "crn": "11682",
+      "course": "1310",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0915",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 60,
+      "isopen": false,
+      "title": "Data Structures and Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 43,
+      "credits": 3,
+      "crn": "12225",
+      "course": "2220",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "JOHN",
+      "room": "218",
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 45,
+      "isopen": true,
+      "title": "Data Science & AI for Everyone"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 12,
+      "credits": 0,
+      "crn": "10885",
+      "course": "2310",
+      "section": "103",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 16,
+      "isopen": true,
+      "title": "Object-Oriented Prgrming/Dsgn"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 13,
+      "credits": 0,
+      "crn": "11571",
+      "course": "2310",
+      "section": "102",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "R",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 17,
+      "isopen": true,
+      "title": "Object-Oriented Prgrming/Dsgn"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 15,
+      "credits": 0,
+      "crn": "11496",
+      "course": "2310",
+      "section": "101",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 17,
+      "isopen": true,
+      "title": "Object-Oriented Prgrming/Dsgn"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 40,
+      "credits": 4,
+      "crn": "10803",
+      "course": "2310",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1600",
+      "startam_PM": "pm",
+      "endtime": "1650",
+      "endam_PM": "pm",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 42,
+      "isopen": true,
+      "title": "Object-Oriented Prgrming/Dsgn"
+    },
+    {
+      "faculty": {
+        "firstname": "Katherine E",
+        "lastname": "Brown"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 17,
+      "credits": 3,
+      "crn": "10238",
+      "course": "2400",
+      "section": "003",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0850",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Brown, Katherine E",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Design of Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Katherine E",
+        "lastname": "Brown"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 27,
+      "credits": 3,
+      "crn": "11355",
+      "course": "2400",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1430",
+      "startam_PM": "pm",
+      "endtime": "1520",
+      "endam_PM": "pm",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Brown, Katherine E",
+      "maximumstudents": 30,
+      "isopen": true,
+      "title": "Design of Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 30,
+      "credits": 3,
+      "crn": "10223",
+      "course": "2400",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 30,
+      "isopen": true,
+      "title": "Design of Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 23,
+      "credits": 1,
+      "crn": "11792",
+      "course": "2500",
+      "section": "003",
+      "istimedetermined": true,
+      "starttime": "1430",
+      "startam_PM": "pm",
+      "endtime": "1520",
+      "endam_PM": "pm",
+      "classdays": "F",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 22,
+      "isopen": false,
+      "title": "Unix Laboratory"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 9,
+      "credits": 1,
+      "crn": "10911",
+      "course": "2500",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "R",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 16,
+      "isopen": true,
+      "title": "Unix Laboratory"
+    },
+    {
+      "faculty": {
+        "firstname": "Cyril Jason",
+        "lastname": "Focht"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 6,
+      "credits": 1,
+      "crn": "11291",
+      "course": "2500",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "T",
+      "islocdetermined": true,
+      "building": "CLEM",
+      "room": "407",
+      "isonline": false,
+      "prof": "Focht, Cyril Jason",
+      "maximumstudents": 16,
+      "isopen": true,
+      "title": "Unix Laboratory"
+    },
+    {
+      "faculty": {
+        "firstname": "Travis S",
+        "lastname": "Brummett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 21,
+      "credits": 3,
+      "crn": "11267",
+      "course": "2510",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1200",
+      "startam_PM": "am",
+      "endtime": "1250",
+      "endam_PM": "pm",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Brummett, Travis S",
+      "maximumstudents": 21,
+      "isopen": true,
+      "title": "Intro to DevOps with Unix"
+    },
+    {
+      "faculty": {
+        "firstname": "Travis S",
+        "lastname": "Brummett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 26,
+      "credits": 3,
+      "crn": "10156",
+      "course": "2510",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0900",
+      "startam_PM": "am",
+      "endtime": "0950",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Brummett, Travis S",
+      "maximumstudents": 36,
+      "isopen": true,
+      "title": "Intro to DevOps with Unix"
+    },
+    {
+      "faculty": {
+        "firstname": "Eric L",
+        "lastname": "Brown"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 53,
+      "credits": 3,
+      "crn": "10026",
+      "course": "2570",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0915",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Brown, Eric L",
+      "maximumstudents": 53,
+      "isopen": true,
+      "title": "Intro to Cybersecurity/Privacy"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 55,
+      "credits": 3,
+      "crn": "10211",
+      "course": "2570",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "CLEM",
+      "room": "212",
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 58,
+      "isopen": true,
+      "title": "Intro to Cybersecurity/Privacy"
+    },
+    {
+      "faculty": {
+        "firstname": "David W",
+        "lastname": "Elizandro"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 20,
+      "credits": 3,
+      "crn": "11048",
+      "course": "2700",
+      "section": "003",
+      "istimedetermined": true,
+      "starttime": "1430",
+      "startam_PM": "pm",
+      "endtime": "1545",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Elizandro, David W",
+      "maximumstudents": 20,
+      "isopen": true,
+      "title": "Discrete Structures for CSC"
+    },
+    {
+      "faculty": {
+        "firstname": "David W",
+        "lastname": "Elizandro"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 18,
+      "credits": 3,
+      "crn": "12101",
+      "course": "2700",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1415",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Elizandro, David W",
+      "maximumstudents": 20,
+      "isopen": true,
+      "title": "Discrete Structures for CSC"
+    },
+    {
+      "faculty": {
+        "firstname": "Beata",
+        "lastname": "Kubiak"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 29,
+      "credits": 3,
+      "crn": "11800",
+      "course": "2700",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1100",
+      "startam_PM": "am",
+      "endtime": "1150",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Kubiak, Beata ",
+      "maximumstudents": 29,
+      "isopen": true,
+      "title": "Discrete Structures for CSC"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 43,
+      "credits": 3,
+      "crn": "12072",
+      "course": "2770",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1000",
+      "startam_PM": "am",
+      "endtime": "1050",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 50,
+      "isopen": true,
+      "title": "Intro to Systems & Networking"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13263",
+      "course": "2903",
+      "section": "800",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Special Topics"
+    },
+    {
+      "faculty": {
+        "firstname": null,
+        "lastname": null
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 3,
+      "crn": "13450",
+      "course": "3020",
+      "section": "E01",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": null,
+      "maximumstudents": 2,
+      "isopen": true,
+      "title": "Numerical Methods"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 31,
+      "credits": 3,
+      "crn": "12445",
+      "course": "3040",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1000",
+      "startam_PM": "am",
+      "endtime": "1050",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 31,
+      "isopen": true,
+      "title": "Profsnlsm, Comm, Rsrch in Comp"
+    },
+    {
+      "faculty": {
+        "firstname": "April Renee",
+        "lastname": "Crockett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 30,
+      "credits": 3,
+      "crn": "11617",
+      "course": "3040",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1100",
+      "startam_PM": "am",
+      "endtime": "1150",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Crockett, April Renee",
+      "maximumstudents": 40,
+      "isopen": true,
+      "title": "Profsnlsm, Comm, Rsrch in Comp"
+    },
+    {
+      "faculty": {
+        "firstname": "Beata",
+        "lastname": "Kubiak"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 31,
+      "credits": 3,
+      "crn": "11955",
+      "course": "3300",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Kubiak, Beata ",
+      "maximumstudents": 35,
+      "isopen": true,
+      "title": "Database Mgmt Systems"
+    },
+    {
+      "faculty": {
+        "firstname": "Travis S",
+        "lastname": "Brummett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 48,
+      "credits": 3,
+      "crn": "12014",
+      "course": "3300",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0915",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "PRSC",
+      "room": "215",
+      "isonline": false,
+      "prof": "Brummett, Travis S",
+      "maximumstudents": 48,
+      "isopen": true,
+      "title": "Database Mgmt Systems"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 57,
+      "credits": 3,
+      "crn": "10645",
+      "course": "3410",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0900",
+      "startam_PM": "am",
+      "endtime": "0950",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "PRSC",
+      "room": "215",
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 75,
+      "isopen": true,
+      "title": "Comp Org/Assemb Lang Prog"
+    },
+    {
+      "faculty": {
+        "firstname": "David W",
+        "lastname": "Elizandro"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 25,
+      "credits": 3,
+      "crn": "11391",
+      "course": "3710",
+      "section": "003",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Elizandro, David W",
+      "maximumstudents": 30,
+      "isopen": true,
+      "title": "Foundations/Computer Science"
+    },
+    {
+      "faculty": {
+        "firstname": "Beata",
+        "lastname": "Kubiak"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 38,
+      "credits": 3,
+      "crn": "11732",
+      "course": "3710",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "0900",
+      "startam_PM": "am",
+      "endtime": "0950",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Kubiak, Beata ",
+      "maximumstudents": 37,
+      "isopen": false,
+      "title": "Foundations/Computer Science"
+    },
+    {
+      "faculty": {
+        "firstname": "Beata",
+        "lastname": "Kubiak"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 30,
+      "credits": 3,
+      "crn": "11649",
+      "course": "3710",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0850",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Kubiak, Beata ",
+      "maximumstudents": 32,
+      "isopen": true,
+      "title": "Foundations/Computer Science"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 4,
+      "credits": 3,
+      "crn": "13389",
+      "course": "4040",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 4,
+      "isopen": true,
+      "title": "Undergrad Computing Rsrch Exp"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 81,
+      "credits": 3,
+      "crn": "11203",
+      "course": "4100",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0850",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 80,
+      "isopen": false,
+      "title": "Operating Systems"
+    },
+    {
+      "faculty": {
+        "firstname": "Md Toufiqul",
+        "lastname": "Islam"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 26,
+      "credits": 3,
+      "crn": "12012",
+      "course": "4200",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1730",
+      "startam_PM": "pm",
+      "endtime": "1845",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Islam, Md Toufiqul",
+      "maximumstudents": 31,
+      "isopen": true,
+      "title": "Computer Networks"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 33,
+      "credits": 3,
+      "crn": "11356",
+      "course": "4200",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 34,
+      "isopen": true,
+      "title": "Computer Networks"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13264",
+      "course": "4220",
+      "section": "800",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Data Mining/Machine Learning"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 36,
+      "credits": 3,
+      "crn": "11195",
+      "course": "4220",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 35,
+      "isopen": false,
+      "title": "Data Mining/Machine Learning"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 60,
+      "credits": 3,
+      "crn": "10489",
+      "course": "4320",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 61,
+      "isopen": true,
+      "title": "Computer Architecture"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 71,
+      "credits": 3,
+      "crn": "11947",
+      "course": "4575",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1100",
+      "startam_PM": "am",
+      "endtime": "1150",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "CLEM",
+      "room": "212",
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 74,
+      "isopen": true,
+      "title": "Cryptography/Network Security"
+    },
+    {
+      "faculty": {
+        "firstname": "Eric L",
+        "lastname": "Brown"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 43,
+      "credits": 0,
+      "crn": "11654",
+      "course": "4610",
+      "section": "101",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Brown, Eric L",
+      "maximumstudents": 46,
+      "isopen": true,
+      "title": "Software Engineering I"
+    },
+    {
+      "faculty": {
+        "firstname": "Eric L",
+        "lastname": "Brown"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 43,
+      "credits": 0,
+      "crn": "12862",
+      "course": "4610",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1415",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Brown, Eric L",
+      "maximumstudents": 46,
+      "isopen": true,
+      "title": "Software Engineering I"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 63,
+      "credits": 0,
+      "crn": "13219",
+      "course": "4620",
+      "section": "101",
+      "istimedetermined": true,
+      "starttime": "1200",
+      "startam_PM": "am",
+      "endtime": "1250",
+      "endam_PM": "pm",
+      "classdays": "F",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 65,
+      "isopen": true,
+      "title": "Software Engineering II"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 63,
+      "credits": 3,
+      "crn": "11544",
+      "course": "4620",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1200",
+      "startam_PM": "am",
+      "endtime": "1250",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 65,
+      "isopen": true,
+      "title": "Software Engineering II"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 17,
+      "credits": 3,
+      "crn": "10469",
+      "course": "4760",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1600",
+      "startam_PM": "pm",
+      "endtime": "1715",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 20,
+      "isopen": true,
+      "title": "Parallel Programming"
+    },
+    {
+      "faculty": {
+        "firstname": "Travis S",
+        "lastname": "Brummett"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 18,
+      "credits": 3,
+      "crn": "10981",
+      "course": "4770",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "209",
+      "isonline": false,
+      "prof": "Brummett, Travis S",
+      "maximumstudents": 35,
+      "isopen": true,
+      "title": "Distributed & Cloud Computing"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13068",
+      "course": "4803",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Studies in CSC"
+    },
+    {
+      "faculty": {
+        "firstname": null,
+        "lastname": null
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 0,
+      "crn": "12860",
+      "course": "4903",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": null,
+      "maximumstudents": 30,
+      "isopen": true,
+      "title": "Special Topics"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 7,
+      "credits": 3,
+      "crn": "11166",
+      "course": "4903",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1430",
+      "startam_PM": "pm",
+      "endtime": "1545",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 30,
+      "isopen": true,
+      "title": "Special Topics"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 2,
+      "credits": 3,
+      "crn": "13426",
+      "course": "4990",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 2,
+      "isopen": true,
+      "title": "Computer Science Internship"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 2,
+      "credits": 3,
+      "crn": "10221",
+      "course": "5100",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0850",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 10,
+      "isopen": true,
+      "title": "Operating Systems"
+    },
+    {
+      "faculty": {
+        "firstname": "Md Toufiqul",
+        "lastname": "Islam"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 3,
+      "crn": "10199",
+      "course": "5200",
+      "section": "002",
+      "istimedetermined": true,
+      "starttime": "1730",
+      "startam_PM": "pm",
+      "endtime": "1820",
+      "endam_PM": "pm",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Islam, Md Toufiqul",
+      "maximumstudents": 5,
+      "isopen": true,
+      "title": "Computer Networks"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "10365",
+      "course": "5200",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 5,
+      "isopen": true,
+      "title": "Computer Networks"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 6,
+      "credits": 3,
+      "crn": "10064",
+      "course": "5220",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "228",
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 6,
+      "isopen": true,
+      "title": "Data Mining/Machine Learning"
+    },
+    {
+      "faculty": {
+        "firstname": "Gerald C",
+        "lastname": "Gannod"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 3,
+      "crn": "11315",
+      "course": "5320",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "119",
+      "isonline": false,
+      "prof": "Gannod, Gerald C",
+      "maximumstudents": 10,
+      "isopen": true,
+      "title": "Computer Architecture"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 14,
+      "credits": 3,
+      "crn": "12936",
+      "course": "5575",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1100",
+      "startam_PM": "am",
+      "endtime": "1150",
+      "endam_PM": "am",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "CLEM",
+      "room": "212",
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 13,
+      "isopen": false,
+      "title": "Info Assurance & Cryptography"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 9,
+      "credits": 3,
+      "crn": "10908",
+      "course": "5760",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1600",
+      "startam_PM": "pm",
+      "endtime": "1715",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 10,
+      "isopen": true,
+      "title": "Parallel Programming"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 2,
+      "credits": 3,
+      "crn": "12985",
+      "course": "5903",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1430",
+      "startam_PM": "pm",
+      "endtime": "1545",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "210",
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 10,
+      "isopen": true,
+      "title": "Special Topics"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 21,
+      "credits": 3,
+      "crn": "12403",
+      "course": "6220",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0930",
+      "startam_PM": "am",
+      "endtime": "1045",
+      "endam_PM": "am",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "327",
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 20,
+      "isopen": false,
+      "title": "Data Mining"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 17,
+      "credits": 3,
+      "crn": "11648",
+      "course": "6400",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1500",
+      "startam_PM": "pm",
+      "endtime": "1615",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 16,
+      "isopen": false,
+      "title": "Adv Analysis of Algorithms"
+    },
+    {
+      "faculty": {
+        "firstname": "Stacy",
+        "lastname": "Prowell"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 11,
+      "credits": 3,
+      "crn": "10041",
+      "course": "6580",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "0800",
+      "startam_PM": "am",
+      "endtime": "0950",
+      "endam_PM": "am",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "OKRDG",
+      "room": ".",
+      "isonline": false,
+      "prof": "Prowell, Stacy ",
+      "maximumstudents": 30,
+      "isopen": true,
+      "title": "Advanced Reverse Engineering"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 12,
+      "credits": 3,
+      "crn": "10125",
+      "course": "6590",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1330",
+      "startam_PM": "pm",
+      "endtime": "1445",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 16,
+      "isopen": true,
+      "title": "Application Security"
+    },
+    {
+      "faculty": {
+        "firstname": null,
+        "lastname": null
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 0,
+      "crn": "10906",
+      "course": "6740",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": null,
+      "maximumstudents": 16,
+      "isopen": true,
+      "title": "Parallel/Distributed Algorithm"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13566",
+      "course": "6803",
+      "section": "007",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13504",
+      "course": "6803",
+      "section": "006",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13501",
+      "course": "6803",
+      "section": "005",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13275",
+      "course": "6803",
+      "section": "004",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13257",
+      "course": "6803",
+      "section": "003",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13253",
+      "course": "6803",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 3,
+      "crn": "13072",
+      "course": "6803",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Directed Independent Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13092",
+      "course": "6903",
+      "section": "003",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Advanced Topics"
+    },
+    {
+      "faculty": {
+        "firstname": null,
+        "lastname": null
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 0,
+      "crn": "13005",
+      "course": "6903",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": null,
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Advanced Topics"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 18,
+      "credits": 3,
+      "crn": "12861",
+      "course": "6903",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1630",
+      "startam_PM": "pm",
+      "endtime": "1745",
+      "endam_PM": "pm",
+      "classdays": "TR",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 20,
+      "isopen": true,
+      "title": "Advanced Topics"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 22,
+      "credits": 1,
+      "crn": "12084",
+      "course": "6910",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1000",
+      "startam_PM": "am",
+      "endtime": "1050",
+      "endam_PM": "am",
+      "classdays": "F",
+      "islocdetermined": true,
+      "building": "CLEM",
+      "room": "407",
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 25,
+      "isopen": true,
+      "title": "Computer Science Seminar"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13091",
+      "course": "6980",
+      "section": "003",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Masters Project"
+    },
+    {
+      "faculty": {
+        "firstname": "Ambareen",
+        "lastname": "Siraj"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 3,
+      "crn": "13006",
+      "course": "6980",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Siraj, Ambareen ",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Masters Project"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 3,
+      "crn": "12997",
+      "course": "6980",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Masters Project"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13284",
+      "course": "6990",
+      "section": "008",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13258",
+      "course": "6990",
+      "section": "007",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13251",
+      "course": "6990",
+      "section": "006",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 2,
+      "credits": 3,
+      "crn": "13198",
+      "course": "6990",
+      "section": "005",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 2,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 2,
+      "credits": 6,
+      "crn": "13163",
+      "course": "6990",
+      "section": "004",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 2,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 3,
+      "crn": "13162",
+      "course": "6990",
+      "section": "003",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 4,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 6,
+      "crn": "13157",
+      "course": "6990",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Ambareen",
+        "lastname": "Siraj"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 3,
+      "crn": "13007",
+      "course": "6990",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Siraj, Ambareen ",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Research & Thesis"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 13,
+      "credits": 3,
+      "crn": "11632",
+      "course": "7720",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1300",
+      "startam_PM": "pm",
+      "endtime": "1415",
+      "endam_PM": "pm",
+      "classdays": "MW",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 20,
+      "isopen": true,
+      "title": "Distributed Operating Systems"
+    },
+    {
+      "faculty": {
+        "firstname": "Akond Ashfaque Ur",
+        "lastname": "Rahman"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 5,
+      "credits": 3,
+      "crn": "11769",
+      "course": "7970",
+      "section": "001",
+      "istimedetermined": true,
+      "starttime": "1430",
+      "startam_PM": "pm",
+      "endtime": "1520",
+      "endam_PM": "pm",
+      "classdays": "MWF",
+      "islocdetermined": true,
+      "building": "BRUN",
+      "room": "410",
+      "isonline": false,
+      "prof": "Rahman, Akond Ashfaque Ur",
+      "maximumstudents": 16,
+      "isopen": true,
+      "title": "Selected Topics"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 2,
+      "credits": 3,
+      "crn": "13215",
+      "course": "7980",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 1,
+      "isopen": false,
+      "title": "Directed Study"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13171",
+      "course": "7980",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Directed Study"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13563",
+      "course": "7990",
+      "section": "021",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 9,
+      "crn": "13549",
+      "course": "7990",
+      "section": "020",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Ambareen",
+        "lastname": "Siraj"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 6,
+      "crn": "13547",
+      "course": "7990",
+      "section": "019",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Siraj, Ambareen ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 6,
+      "crn": "13451",
+      "course": "7990",
+      "section": "018",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Akond Ashfaque Ur",
+        "lastname": "Rahman"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 6,
+      "crn": "13429",
+      "course": "7990",
+      "section": "017",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Rahman, Akond Ashfaque Ur",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Stephen Lucien",
+        "lastname": "Scott"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 1,
+      "crn": "13415",
+      "course": "7990",
+      "section": "016",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Scott, Stephen Lucien",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13399",
+      "course": "7990",
+      "section": "015",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13358",
+      "course": "7990",
+      "section": "014",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 1,
+      "crn": "13259",
+      "course": "7990",
+      "section": "013",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Susmit",
+        "lastname": "Shannigrahi"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13239",
+      "course": "7990",
+      "section": "012",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Shannigrahi, Susmit ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Douglas Alan",
+        "lastname": "Talbert"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 6,
+      "crn": "13229",
+      "course": "7990",
+      "section": "011",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Talbert, Douglas Alan",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 3,
+      "crn": "13214",
+      "course": "7990",
+      "section": "010",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Muhammad Ismail Muhammad",
+        "lastname": "Muhammad"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 4,
+      "credits": 6,
+      "crn": "13213",
+      "course": "7990",
+      "section": "009",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Muhammad, Muhammad Ismail Muhammad",
+      "maximumstudents": 4,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 3,
+      "credits": 3,
+      "crn": "13208",
+      "course": "7990",
+      "section": "008",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 3,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 8,
+      "crn": "13207",
+      "course": "7990",
+      "section": "007",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Sheikh Khaled",
+        "lastname": "Ghafoor"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 9,
+      "crn": "13206",
+      "course": "7990",
+      "section": "006",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ghafoor, Sheikh Khaled",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Maanak",
+        "lastname": "Gupta"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13202",
+      "course": "7990",
+      "section": "005",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Gupta, Maanak ",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Denis A",
+        "lastname": "Ulybyshev"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 3,
+      "crn": "13181",
+      "course": "7990",
+      "section": "004",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Ulybyshev, Denis A",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "William Fred",
+        "lastname": "Eberle"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 6,
+      "crn": "13120",
+      "course": "7990",
+      "section": "003",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Eberle, William Fred",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Michael David",
+        "lastname": "Rogers"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 1,
+      "credits": 6,
+      "crn": "13111",
+      "course": "7990",
+      "section": "002",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Rogers, Michael David",
+      "maximumstudents": 1,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    },
+    {
+      "faculty": {
+        "firstname": "Ambareen",
+        "lastname": "Siraj"
+      },
+      "subjectterm": {
+        "subject": "CSC",
+        "term": "202210"
+      },
+      "studentcount": 0,
+      "credits": 3,
+      "crn": "13008",
+      "course": "7990",
+      "section": "001",
+      "istimedetermined": false,
+      "starttime": null,
+      "startam_PM": null,
+      "endtime": null,
+      "endam_PM": null,
+      "classdays": null,
+      "islocdetermined": false,
+      "building": null,
+      "room": null,
+      "isonline": false,
+      "prof": "Siraj, Ambareen ",
+      "maximumstudents": 2,
+      "isopen": true,
+      "title": "Research and Dissertation"
+    }
+  ]
+}

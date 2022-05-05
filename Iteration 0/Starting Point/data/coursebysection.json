@@ -1,0 +1,29 @@
+{
+  "faculty": {
+    "firstname": "Gerald C",
+    "lastname": "Gannod"
+  },
+  "subjectterm": {
+    "subject": "CSC",
+    "term": "202210"
+  },
+  "course": "2310",
+  "section": "001",
+  "studentcount": 40,
+  "credits": 4,
+  "crn": "10803",
+  "istimedetermined": true,
+  "starttime": "1600",
+  "startam_PM": "pm",
+  "endtime": "1650",
+  "endam_PM": "pm",
+  "classdays": "MWF",
+  "islocdetermined": true,
+  "building": "BRUN",
+  "room": "228",
+  "isonline": false,
+  "prof": "Gannod, Gerald C",
+  "maximumstudents": 42,
+  "isopen": true,
+  "title": "Object-Oriented Prgrming/Dsgn"
+}

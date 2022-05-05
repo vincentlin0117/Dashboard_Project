@@ -1,0 +1,234 @@
+[
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 12,
+    "credits": 0,
+    "crn": "10885",
+    "course": "2310",
+    "section": "103",
+    "istimedetermined": true,
+    "starttime": "1630",
+    "startam_PM": "pm",
+    "endtime": "1745",
+    "endam_PM": "pm",
+    "classdays": "T",
+    "islocdetermined": true,
+    "building": "BRUN",
+    "room": "327",
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 16,
+    "isopen": true,
+    "title": "Object-Oriented Prgrming/Dsgn"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 13,
+    "credits": 0,
+    "crn": "11571",
+    "course": "2310",
+    "section": "102",
+    "istimedetermined": true,
+    "starttime": "1500",
+    "startam_PM": "pm",
+    "endtime": "1615",
+    "endam_PM": "pm",
+    "classdays": "R",
+    "islocdetermined": true,
+    "building": "BRUN",
+    "room": "228",
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 17,
+    "isopen": true,
+    "title": "Object-Oriented Prgrming/Dsgn"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 15,
+    "credits": 0,
+    "crn": "11496",
+    "course": "2310",
+    "section": "101",
+    "istimedetermined": true,
+    "starttime": "1500",
+    "startam_PM": "pm",
+    "endtime": "1615",
+    "endam_PM": "pm",
+    "classdays": "T",
+    "islocdetermined": true,
+    "building": "BRUN",
+    "room": "228",
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 17,
+    "isopen": true,
+    "title": "Object-Oriented Prgrming/Dsgn"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 40,
+    "credits": 4,
+    "crn": "10803",
+    "course": "2310",
+    "section": "001",
+    "istimedetermined": true,
+    "starttime": "1600",
+    "startam_PM": "pm",
+    "endtime": "1650",
+    "endam_PM": "pm",
+    "classdays": "MWF",
+    "islocdetermined": true,
+    "building": "BRUN",
+    "room": "228",
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 42,
+    "isopen": true,
+    "title": "Object-Oriented Prgrming/Dsgn"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 1,
+    "credits": 3,
+    "crn": "13263",
+    "course": "2903",
+    "section": "800",
+    "istimedetermined": false,
+    "starttime": null,
+    "startam_PM": null,
+    "endtime": null,
+    "endam_PM": null,
+    "classdays": null,
+    "islocdetermined": false,
+    "building": null,
+    "room": null,
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 1,
+    "isopen": true,
+    "title": "Special Topics"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 60,
+    "credits": 3,
+    "crn": "10489",
+    "course": "4320",
+    "section": "001",
+    "istimedetermined": true,
+    "starttime": "0930",
+    "startam_PM": "am",
+    "endtime": "1045",
+    "endam_PM": "am",
+    "classdays": "TR",
+    "islocdetermined": true,
+    "building": "BRUN",
+    "room": "119",
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 61,
+    "isopen": true,
+    "title": "Computer Architecture"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 2,
+    "credits": 3,
+    "crn": "13426",
+    "course": "4990",
+    "section": "001",
+    "istimedetermined": false,
+    "starttime": null,
+    "startam_PM": null,
+    "endtime": null,
+    "endam_PM": null,
+    "classdays": null,
+    "islocdetermined": false,
+    "building": null,
+    "room": null,
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 2,
+    "isopen": true,
+    "title": "Computer Science Internship"
+  },
+  {
+    "faculty": {
+      "firstname": "Gerald C",
+      "lastname": "Gannod"
+    },
+    "subjectterm": {
+      "subject": "CSC",
+      "term": "202210"
+    },
+    "studentcount": 0,
+    "credits": 3,
+    "crn": "11315",
+    "course": "5320",
+    "section": "001",
+    "istimedetermined": true,
+    "starttime": "0930",
+    "startam_PM": "am",
+    "endtime": "1045",
+    "endam_PM": "am",
+    "classdays": "TR",
+    "islocdetermined": true,
+    "building": "BRUN",
+    "room": "119",
+    "isonline": false,
+    "prof": "Gannod, Gerald C",
+    "maximumstudents": 10,
+    "isopen": true,
+    "title": "Computer Architecture"
+  }
+]
